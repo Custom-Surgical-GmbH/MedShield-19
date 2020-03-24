@@ -11,3 +11,5 @@ We are also looking for volunteers owning 3D printers, in order to supply doctor
 3. Contact hours
 
 ![Zenoplige snorkeling mask 3D printed attachment for 2 filters](https://customsurgical.de/wp-content/uploads/2020/03/2-filters-1.png)
+
+Project Created Under the General Public License V3
