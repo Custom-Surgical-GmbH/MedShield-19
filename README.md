@@ -1,4 +1,4 @@
-[license-badge](https://img.shields.io/github/license/ferbeab/MedShield-19)
+![license-badge](https://img.shields.io/github/license/ferbeab/MedShield-19)
 
 # MedShield-19
 ## FREE 3D PRINT MODEL FOR CUSTOMIZING A SNORKELING MASK INTO A VIRUS PROTECTION MASK
